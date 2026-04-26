@@ -1,0 +1,10 @@
+# NEVER commit these to GitHub
+.env
+*.env
+*.pem
+secrets.toml
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
